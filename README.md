@@ -2,7 +2,7 @@
 Google Map Lokasyon Test Otomasyonu - Google Mapte Girdiğimiz Lokasyonları Test Ettiğimiz Bir Otomasyon. Android Uyumluluğu Vardır
 
 -Java Tabanlı Kodlanmıştır.
--Çalıştırılması Android Studio Kurulmalıdır.
+-Çalıştırılması İçin Android Studio Kurulmalıdır.
 -Appium Kullanılmıştır
 
 Nasıl Çalıştırılacağı Hakkında Detaylı Açıklama Aşağıda Verilmiştir:
